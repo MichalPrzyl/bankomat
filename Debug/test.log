@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\user\Desktop\cpp\test\main.cpp(14,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\Desktop\cpp\test\main.cpp(20): warning C4715: "isNumber”: niewszystkie ścieżki kodu zwracają wartość
+  test.vcxproj -> C:\Users\user\Desktop\cpp\test\Debug\test.exe

@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\cpp\test\Debug\test.exe
+C:\Users\user\Desktop\cpp\test\Debug\test.pdb
